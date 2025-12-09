@@ -1,0 +1,49 @@
+/* EVENTS PAGE ONLY */
+
+/* Event Cards */
+.card-title {
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+/* Placeholder image box */
+.event-img-placeholder {
+    background-color: #f1f3f5;
+    border-radius: 8px;
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.event-img-placeholder svg {
+    opacity: 0.5;
+}
+
+/* Filter Form */
+form .form-select,
+form input[type="date"] {
+    border-radius: 6px;
+    border: 1px solid #ced4da;
+}
+
+/* Event Details */
+.event-detail-box {
+    border-radius: 8px;
+    padding: 20px;
+    background: #ffffff;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+}
+
+.event-description {
+    line-height: 1.6;
+    font-size: 1rem;
+}
+
+/* Category badge */
+.category-badge {
+    background-color: #17a2b8 !important;
+    color: white !important;
+    font-size: 0.85rem;
+}
+
