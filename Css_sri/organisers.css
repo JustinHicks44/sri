@@ -1,0 +1,68 @@
+/* ORGANIZER DASHBOARD */
+
+/* Page title */
+h1 {
+    font-weight: 700;
+}
+
+/* Table Styles */
+.table {
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.table thead {
+    background-color: #343a40;
+    color: white;
+}
+
+.table tbody tr:hover {
+    background-color: #f1f1f1;
+}
+
+/* Action buttons */
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 0.8rem;
+    border-radius: 6px;
+}
+
+.btn-warning {
+    color: #000;
+}
+
+.btn-info {
+    background-color: #17a2b8;
+    border: none;
+}
+
+.btn-info:hover {
+    background-color: #138496;
+}
+
+/* Stats badges */
+.badge {
+    padding: 0.5em 0.8em;
+}
+
+.badge.bg-success,
+.badge.bg-primary {
+    font-size: 0.75rem;
+}
+
+/* Create/Edit form styling */
+.form-control,
+.form-select {
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 0.95rem;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+/* Page spacing */
+.dashboard-container {
+    margin-top: 40px;
+}
