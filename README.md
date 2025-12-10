@@ -1,6 +1,6 @@
 # Ase230-Final
 # Event Ticketing System
-
+Project Video: https://youtu.be/PEbM7H4Ifg4
 A full-stack event management and ticketing platform built with PHP, MySQL, and Bootstrap. Allows users to browse events with advanced filtering, view event details with real-time ticket availability, and provides organizers with a complete dashboard to manage events and view sales.
 
 ---
